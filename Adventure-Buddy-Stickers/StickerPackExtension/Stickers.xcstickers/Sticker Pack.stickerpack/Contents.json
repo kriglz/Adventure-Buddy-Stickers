@@ -1,10 +1,25 @@
 {
   "stickers" : [
     {
-      "filename" : "Bathing.sticker"
+      "filename" : "Singing.sticker"
     },
     {
-      "filename" : "Cool.sticker"
+      "filename" : "Hey there.sticker"
+    },
+    {
+      "filename" : "Flexing.sticker"
+    },
+    {
+      "filename" : "Oh noes.sticker"
+    },
+    {
+      "filename" : "Running.sticker"
+    },
+    {
+      "filename" : "Nice.sticker"
+    },
+    {
+      "filename" : "Bathing.sticker"
     },
     {
       "filename" : "Dont wait.sticker"
@@ -16,13 +31,7 @@
       "filename" : "Drinking.sticker"
     },
     {
-      "filename" : "Flexing.sticker"
-    },
-    {
       "filename" : "Great.sticker"
-    },
-    {
-      "filename" : "Hey there.sticker"
     },
     {
       "filename" : "Holding.sticker"
@@ -46,22 +55,10 @@
       "filename" : "Love ya.sticker"
     },
     {
-      "filename" : "Nice.sticker"
-    },
-    {
       "filename" : "Nope.sticker"
     },
     {
-      "filename" : "Oh noes.sticker"
-    },
-    {
       "filename" : "Reading.sticker"
-    },
-    {
-      "filename" : "Running.sticker"
-    },
-    {
-      "filename" : "Singing.sticker"
     },
     {
       "filename" : "Sitting.sticker"
@@ -104,6 +101,9 @@
     },
     {
       "filename" : "Yay.sticker"
+    },
+    {
+      "filename" : "Cool.sticker"
     }
   ],
   "info" : {
