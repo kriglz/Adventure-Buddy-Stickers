@@ -106,12 +106,11 @@
 				TargetAttributes = {
 					89111D791F627A9700E166EC = {
 						CreatedOnToolsVersion = 8.3.3;
-						DevelopmentTeam = B2HHR6H4K6;
 						ProvisioningStyle = Automatic;
 					};
 					89111D7D1F627A9800E166EC = {
 						CreatedOnToolsVersion = 8.3.3;
-						DevelopmentTeam = B2HHR6H4K6;
+						DevelopmentTeam = PJ8U3CQ43A;
 						ProvisioningStyle = Automatic;
 					};
 				};
@@ -258,7 +257,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = "iMessage App Icon";
-				DEVELOPMENT_TEAM = B2HHR6H4K6;
+				DEVELOPMENT_TEAM = PJ8U3CQ43A;
 				INFOPLIST_FILE = StickerPackExtension/Info.plist;
 				PRODUCT_BUNDLE_IDENTIFIER = kg.adventurebuddystickers.StickerPackExtension;
 				PRODUCT_NAME = "$(TARGET_NAME)";
@@ -270,7 +269,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = "iMessage App Icon";
-				DEVELOPMENT_TEAM = B2HHR6H4K6;
+				DEVELOPMENT_TEAM = PJ8U3CQ43A;
 				INFOPLIST_FILE = StickerPackExtension/Info.plist;
 				PRODUCT_BUNDLE_IDENTIFIER = kg.adventurebuddystickers.StickerPackExtension;
 				PRODUCT_NAME = "$(TARGET_NAME)";
@@ -282,7 +281,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = "iMessage App Icon";
-				DEVELOPMENT_TEAM = B2HHR6H4K6;
+				DEVELOPMENT_TEAM = "";
 				INFOPLIST_FILE = "Adventure-Buddy-Stickers/Info.plist";
 				PRODUCT_BUNDLE_IDENTIFIER = kg.adventurebuddystickers;
 				PRODUCT_NAME = "$(TARGET_NAME)";
@@ -293,7 +292,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = "iMessage App Icon";
-				DEVELOPMENT_TEAM = B2HHR6H4K6;
+				DEVELOPMENT_TEAM = "";
 				INFOPLIST_FILE = "Adventure-Buddy-Stickers/Info.plist";
 				PRODUCT_BUNDLE_IDENTIFIER = kg.adventurebuddystickers;
 				PRODUCT_NAME = "$(TARGET_NAME)";
